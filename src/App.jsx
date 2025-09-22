@@ -52,11 +52,11 @@ export default function App() {
            JASHANJOT KAUR
         </div>
         <div className="hidden md:flex gap-8 text-gray-300 font-medium">
-          <a href="#about-me" className="hover:text-cyan-400  transition">About Me</a>
+          <a href="#about" className="hover:text-cyan-400  transition">About Me</a>
           <a href="#skills" className="hover:text-cyan-400 transition">Skills</a>
-          <a href="# My-services" className="hover:text-cyan-400 transition">Services</a>
-          <a href="#My-Latest-Work" className="hover:text-cyan-400 transition">Projects</a>
-          <a href="#contact-me" className="hover:text-cyan-400 transition">Contact Me</a>
+          <a href="#services" className="hover:text-cyan-400 transition">Services</a>
+          <a href="#projects" className="hover:text-cyan-400 transition">Projects</a>
+          <a href="#contact" className="hover:text-cyan-400 transition">Contact Me</a>
         </div>
 
          <dev className="nav-connect rounded-lg  p-2 bg-cyan-400  hover:scale-105 transform transition  "  >Connect With Me</dev>
