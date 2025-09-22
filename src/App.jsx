@@ -59,7 +59,9 @@ export default function App() {
           <a href="#contact" className="hover:text-cyan-400 transition">Contact Me</a>
         </div>
 
-         <dev className="nav-connect rounded-lg  p-2 bg-cyan-400  hover:scale-105 transform transition  "  >Connect With Me</dev>
+          <a href="#contact">
+         <div className="nav-connect rounded-lg  p-2 bg-cyan-400  hover:scale-105 transform transition  "  >Connect With Me</div>
+          </a>
               </nav>
 
       {/* Hero */}
